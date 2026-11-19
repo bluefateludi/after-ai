@@ -7,3 +7,4 @@
 ## 文章
 
 - [01 · 认知投降](articles/01-cognitive-surrender.md)
+- [02 · 使用 AI 到底有哪些层级？](articles/02-ai-use-levels.md)
